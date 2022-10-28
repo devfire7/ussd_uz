@@ -9,5 +9,5 @@
 
 ## Getting Started
 
-- `pub get`
-- `flutter run -d android`
+- pub get
+- flutter run -d android
